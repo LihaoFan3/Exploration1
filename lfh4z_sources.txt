@@ -1,0 +1,6 @@
+Link to the project:                      http://www.lihaofan.me/exploration1/StoreProject/
+Link to the GitHub:                      https://github.com/LihaoFan3/Exploration1.git
+Link to the documentation:      https://angular.io/start
+Architecture:                                 https://angular.io/guide/architecture-components
+NgIf                                                 https://angular.io/api/common/NgIf
+NgFor                                              https://angular.io/start#template-syntax
